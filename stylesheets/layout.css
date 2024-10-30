@@ -1,0 +1,191 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    width: 1440px;
+    display: block;
+    margin: 0 auto;
+    font-family: "Old Standart TT";
+    position: relative;
+}
+
+.section-1 {
+    display: flex;
+    background-image: url(../images/gromofonchik.svg);
+    width: 1440px;
+    height: 985px;
+}
+.section-1 {
+    position: flex;
+}
+.section-1 h1 {
+    color: black;
+    font-size: 85px;
+    font-weight: bold;
+    margin: 443px 0 0 656px;
+    transform: rotate(11.89deg);
+}
+
+.section-2 {
+display: flex;
+background-image: url(../images/gazeta2.svg);
+width: 1440px;
+height: 1825px;
+position: flex;
+}
+
+.section-2 h1 {
+    color: black;
+    font-size: 100px;
+    font-weight: normal;
+    font-style: italic;
+    margin: 310px 0 0 324px;
+    transform: rotate(13.34deg);
+}
+
+.section-2 h2 {
+    color: black;
+    font-size: 36px;
+    font-weight: normal;
+    font-style: normal;
+    margin: 1px 75px 15px 0px;
+    transform: rotate(13.5deg);
+    text-align: center;
+}
+
+.section-2 h3 {
+    color: black;
+    font-size: 75px;
+    font-weight: normal;
+    font-style: italic;
+    margin: 980px 0 0 500px;
+    text-align: center;
+}
+
+.sexia3 {
+    display: flex;
+    background-image: url(../images/krichit.svg);
+    width: 1440px;
+    height: 2270px;
+    position: flex;
+}
+
+.sexia3 h1 {
+    color: blanchedalmond;
+    font-size: 60px;
+    font-weight: bold;
+    font-style: normal;
+    margin: 87px 0 0 400px;
+    transform: rotate(4.5deg);
+}
+
+.sexia3 h2 {
+    color: aliceblue;
+    font-size: 100px;
+    font-weight: normal;
+    font-style: normal;
+    margin: 455px 0 0 750px;
+    transform: rotate(4.65deg);
+}
+
+.sexia3 h3 {
+    color: aliceblue;
+    font-size: 100px;
+    font-weight: bold;
+    font-style: normal;
+    margin: 65px 0 0 740px;
+    transform: rotate(11.52deg);
+}
+
+.sexia3 h4 {
+    color: aliceblue;
+    font-size: 100px;
+    font-weight: normal;
+    font-style: italic;
+    margin: 77px 0 0 690px;
+    transform: rotate(20.31deg);
+}
+
+.sexia3 h5 {
+    color: darkred;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 230px 0 0 70px;
+    transform: rotate(-5deg);
+}
+
+.sexia4 {
+    display: flex;
+    background-image: url(../images/wom.svg);
+    width: 1440px;
+    height: 1555px;
+    position: flex;
+}
+
+.sexia4 h1 {
+    color: aliceblue;
+    font-size: 85px;
+    font-style: italic;
+    font-weight: normal;
+    margin: 0px 30px 20px 150px;
+    transform: rotate(-4.16deg)
+}
+
+.sexia5 {
+    display: flex;
+    background-image: url(../images/nyny.svg);
+    width: 1440px;
+    height: 2535px;
+    position: flex;
+}
+
+.sexia5 h1 {
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+    margin: 60px 0 0 50px;
+    transform: rotate(-6.45deg);
+}
+
+.sexia5 h2 {
+    color: darkred;
+    font-size: 100px;
+    font-weight: normal;
+    font-style: normal;
+    margin: 265px 0 0 25px;
+    transform: rotate(-6deg);
+}
+
+.sexia5 h3 {
+    color: darkred;
+    font-size: 100px;
+    font-weight: normal;
+    font-style: normal;
+    margin: 30px 0 0 35px;
+    transform: rotate(-6deg);
+}
+
+.sexia5 h4 {
+    color: darkred;
+    font-size: 100px;
+    font-weight: normal;
+    font-style: normal;
+    margin: 35px 0 0 45px;
+    transform: rotate(-6deg);
+}
+
+.sexia5 h5 {
+    color: black;
+    font-size: 200px;
+    font-weight: normal;
+    font-style: normal;
+    margin: 1305px 0 0 75px;
+}
+
+.sexia5 h6 {
+    color: aliceblue;
+    font-size: 36px;
+    font-weight: normal;
+    font-style: italic;
+    margin: 182px 0 0 77px;
+}
